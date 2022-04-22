@@ -1,5 +1,5 @@
 username-abcdef
 password-1234
 
-address- My new address for conflict
+address- My new address for conflicts
 checking in local
