@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-username-abcde
-password-1234
-id -abc@gmial.com
-=======
 username-abcdef
 password-1234
-
-1234567
->>>>>>> a47c4a0bf1d74e48f996075bff3a22004a3a01bd
+id=2000
+ciy=delhi
+country india
